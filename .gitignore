@@ -1,0 +1,11 @@
+.env
+env/
+data/
+runs/
+analize*
+*.json
+*.jsonl
+*.md
+analyze*
+vector_db/
+__pycache__/
